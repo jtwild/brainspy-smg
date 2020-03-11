@@ -1,3 +1,6 @@
+# Temporary output files:
+/tmp/
+
 # Visual studio workspace files
 .vscode/*
 
@@ -41,3 +44,5 @@ coverage.xml
 .mr.developer.cfg
 .project
 NameError: name 'pandas' is not defined"
+
+
